@@ -1,2 +1,3 @@
 # Animação com Mouse
-Aqui acontecerá uma animação em c#
+Aqui acontecerá uma animação em jquery
+
